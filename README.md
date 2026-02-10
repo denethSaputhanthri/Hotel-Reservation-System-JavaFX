@@ -1,6 +1,6 @@
-# 🏨 Hotel Reservation System (JavaFX)
+# 🏨 Hotel Management System (JavaFX)
 
-This is a **Hotel Reservation System** developed using **JavaFX**.  
+This is a **Hotel Management System (CRUD)** developed using **JavaFX**.  
 It provides a graphical user interface that allows users to manage hotel bookings, rooms, and guest information with ease.
 
 ## ✨ Features
